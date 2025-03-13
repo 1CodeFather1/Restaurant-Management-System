@@ -1,0 +1,18 @@
+
+Grilled Ribeye Steak <> Main Meal <> 14 <> 29.99 <> src\Images\Meals\Grilled Ribeye Steak.jpg <> Juicy ribeye steak grilled to perfection and served with steamed seasonal vegetables, finished with a dollop of rich herb butter for enhanced flavor.
+Chicken Alfredo Pasta <> Main Meal <> 18 <> 22.5 <> src\Images\Meals\Chicken Alfredo Pasta.jpeg <> Creamy alfredo pasta generously tossed with tender, marinated chicken pieces in a smooth, garlicky white sauce that comforts the soul.
+Beef Burger Deluxe <> Main Meal <> 20 <> 16.0 <> src\Images\Meals\Beef Burger Deluxe.jpg <> A gourmet beef burger loaded with crisp lettuce, ripe tomatoes, melted cheese, and a special house sauce, all sandwiched between a freshly toasted bun.
+Spaghetti Bolognese <> Main Meal <> 17 <> 18.75 <> src\Images\Meals\Spaghetti Bolognese.jpg <> Classic spaghetti served with a hearty, slow-cooked meat sauce enriched with tomatoes, garlic, and Italian herbs, offering a rich, satisfying flavor.
+Seafood Paella <> Main Meal <> 16 <> 26.0 <> src\Images\Meals\Seafood Paella.jpg <> Saffron-infused rice cooked with an exquisite mix of fresh seafood and vegetables, spiced with traditional Mediterranean seasonings for a festive dish.
+BBQ Ribs <> Main Meal <> 15 <> 24.5 <> src\Images\Meals\BBQ Ribs.jpeg <> Tender pork ribs glazed in a smoky, tangy barbecue sauce and slow-cooked until fall-off-the-bone tender, accompanied by a crisp, refreshing coleslaw.
+Lamb Chops <> Main Meal <> 13 <> 28.0 <> src\Images\Meals\Lamb Chops.jpg <> Succulent lamb chops grilled with rosemary and garlic, offering robust and savory flavors, served with a side of roasted root vegetables.
+Roast Chicken with Herbs <> Main Meal <> 21 <> 19.99 <> src\Images\Meals\Roast Chicken with Herbs.jpg <> Herb-roasted chicken with irresistibly crispy skin and juicy meat, complemented by roasted potatoes and a medley of seasonal vegetables.
+Grilled Salmon Fillet <> Main Meal <> 22 <> 27.0 <> src\Images\Meals\Grilled Salmon Fillet.jpg <> Fresh salmon fillet grilled with lemon zest and a blend of herbs, served alongside a light salad and steamed rice for a healthy meal.
+Shrimp Scampi Pasta <> Main Meal <> 19 <> 21.5 <> src\Images\Meals\Shrimp Scampi Pasta.jpg <> Al dente pasta tossed with succulent shrimp in a buttery garlic, white wine, and lemon sauce, delivering a rich and aromatic dining experience.
+Vegetarian Lasagna <> Main Meal <> 17 <> 17.0 <> src\Images\Meals\Vegetarian Lasagna.jpg <> Layers of pasta, fresh vegetables, rich tomato sauce, and melted cheese baked to bubbly perfection for a satisfying meat-free meal.
+Steak Frites <> Main Meal <> 20 <> 25.0 <> src\Images\Meals\Steak Frites.jpg <> A perfectly grilled steak paired with crispy, golden French fries, finished with a drizzle of garlic herb sauce for a classic bistro experience.
+Chicken Curry Rice <> Main Meal <> 18 <> 15.75 <> src\Images\Meals\Chicken Curry Rice.jpg <> Spicy chicken curry simmered in a blend of aromatic spices and coconut milk, served over steaming basmati rice for a warming meal.
+Beef Stroganoff <> Main Meal <> 16 <> 23.0 <> src\Images\Meals\Beef Stroganoff.jpeg <> Tender strips of beef cooked in a creamy mushroom sauce, served over buttered noodles to create a comforting and hearty dish.
+Pork Schnitzel <> Main Meal <> 14 <> 19.5 <> src\Images\Meals\Pork Schnitzel.jpeg <> Breaded and fried pork cutlet with a crispy exterior and tender interior, served with a lemon wedge and a refreshing potato salad.
+Fish and Chips <> Main Meal <> 22 <> 16.75 <> src\Images\Meals\Fish and Chips.jpeg <> Crispy battered fish paired with thick-cut fries and a tangy tartar sauce, delivering a classic and satisfying taste of the seaside.
+

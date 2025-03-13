@@ -1,0 +1,189 @@
+Order #1
+Owner: Ahmed
+Type: Internal
+Details: Table Num: 12
+Meals: Greek Salad, 2 pieces, 9.5$ + Grilled Chicken, 1 pieces, 15.99$
+Total Price: 34.99$
+Payment Method: By Cash
+Note: Extra dressing
+---------------------------------------
+Order #2
+Owner: Sarah
+Type: Delivery
+Details: Damascus - Bab Touma
+Meals: Pepperoni Pizza, 1 pieces, 18.0$ + Chocolate Cake, 2 pieces, 8.0$
+Total Price: 34.0$
+Payment Method: By Card
+Note: Less spicy sauce
+---------------------------------------
+Order #3
+Owner: Khaled
+Type: Internal
+Details: Table Num: 5
+Meals: T-Bone Steak, 2 pieces, 32.0$ + Caesar Salad, 1 pieces, 10.5$
+Total Price: 74.5$
+Payment Method: By Cash
+Note: Medium well steak
+---------------------------------------
+Order #4
+Owner: Layla
+Type: Delivery
+Details: Homs - Al Inshaat
+Meals: Shrimp Pasta, 1 pieces, 22.5$ + Garlic Bread, 3 pieces, 6.0$
+Total Price: 40.5$
+Payment Method: By Card
+Note: Extra garlic
+---------------------------------------
+Order #5
+Owner: Omar
+Type: Internal
+Details: Table Num: 8
+Meals: Mixed Grill Platter, 2 pieces, 29.99$ + Lemon Mint Juice, 1 pieces, 5.5$
+Total Price: 65.48$
+Payment Method: By Cash
+Note: No ice in the juice
+---------------------------------------
+Order #6
+Owner: Yasmeen
+Type: Delivery
+Details: Aleppo - Al Furqan
+Meals: Sushi Platter, 3 pieces, 30.0$ + Miso Soup, 2 pieces, 7.0$
+Total Price: 101.0$
+Payment Method: By Cash
+Note: Extra wasabi
+---------------------------------------
+Order #7
+Owner: Hadi
+Type: Internal
+Details: Table Num: 3
+Meals: Cheeseburger, 2 pieces, 12.0$ + French Fries, 3 pieces, 5.0$
+Total Price: 39.0$
+Payment Method: By Card
+Note: No ketchup
+---------------------------------------
+Order #8
+Owner: Dina
+Type: Delivery
+Details: Latakia - Al Shaat
+Meals: Chicken Biryani, 2 pieces, 14.5$ + Raita, 2 pieces, 3.0$
+Total Price: 35.0$
+Payment Method: By Cash
+Note: Extra spicy
+---------------------------------------
+Order #9
+Owner: Sami
+Type: Internal
+Details: Table Num: 10
+Meals: BBQ Ribs, 1 pieces, 20.0$ + Mashed Potatoes, 2 pieces, 6.5$
+Total Price: 33.0$
+Payment Method: By Card
+Note: Extra BBQ sauce
+---------------------------------------
+Order #10
+Owner: Noor
+Type: Delivery
+Details: Tartus - Corniche
+Meals: Falafel Wrap, 3 pieces, 8.5$ + Lentil Soup, 1 pieces, 5.0$
+Total Price: 30.5$
+Payment Method: By Cash
+Note: Add pickles
+---------------------------------------
+Order #11
+Owner: Walid
+Type: Internal
+Details: Table Num: 7
+Meals: Beef Shawarma, 2 pieces, 10.5$ + Hummus, 2 pieces, 6.0$
+Total Price: 33.0$
+Payment Method: By Card
+Note: No onions
+---------------------------------------
+Order #12
+Owner: Amal
+Type: Delivery
+Details: Hama - Al Jalaa
+Meals: Mushroom Risotto, 1 pieces, 19.0$ + Green Tea, 3 pieces, 4.0$
+Total Price: 31.0$
+Payment Method: By Cash
+Note: Less salt
+---------------------------------------
+Order #13
+Owner: Zain
+Type: Internal
+Details: Table Num: 6
+Meals: Grilled Salmon, 2 pieces, 24.0$ + Steamed Vegetables, 1 pieces, 5.0$
+Total Price: 53.0$
+Payment Method: By Card
+Note: Light seasoning
+---------------------------------------
+Order #14
+Owner: Fatima
+Type: Delivery
+Details: Deir ez-Zor - Al Joura
+Meals: Butter Chicken, 2 pieces, 18.0$ + Naan Bread, 2 pieces, 4.5$
+Total Price: 45.0$
+Payment Method: By Cash
+Note: No coriander
+---------------------------------------
+Order #15
+Owner: Majed
+Type: Internal
+Details: Table Num: 4
+Meals: Philly Cheesesteak, 1 pieces, 14.0$ + Onion Rings, 3 pieces, 6.5$
+Total Price: 33.5$
+Payment Method: By Card
+Note: Extra cheese
+---------------------------------------
+Order #16
+Owner: Salma
+Type: Delivery
+Details: Daraa - Al Mahatta
+Meals: Vegetable Stir Fry, 2 pieces, 13.5$ + Jasmine Rice, 1 pieces, 5.5$
+Total Price: 32.5$
+Payment Method: By Cash
+Note: No soy sauce
+---------------------------------------
+Order #17
+Owner: Tariq
+Type: Internal
+Details: Table Num: 15
+Meals: Lamb Chops, 2 pieces, 27.0$ + Baked Potato, 2 pieces, 6.0$
+Total Price: 72.0$
+Payment Method: By Card
+Note: Medium rare
+---------------------------------------
+Order #18
+Owner: Mona
+Type: Delivery
+Details: Al-Hasakah - Al Nashwa
+Meals: Chicken Tacos, 3 pieces, 12.5$ + Guacamole, 2 pieces, 7.0$
+Total Price: 51.5$
+Payment Method: By Cash
+Note: Extra lime
+---------------------------------------
+Order #19
+Owner: Ahmed Matroud
+Type: Internal
+Details: Table Num: 4
+Meals: Bruschetta with Tomato, 3 pieces, 8.5$ + Tiramisu, 2 pieces, 11.0$
+Total Price: 47.5$
+Payment Method: By Cash
+Note: 
+---------------------------------------
+Order #20
+Owner: Ahmed Matroud
+Type: Delivery
+Details:  096991683 Syria
+Meals: Tiramisu, 2 pieces, 11.0$ + New York Cheesecake, 1 pieces, 10.5$ + Beef Burger Deluxe, 2 pieces, 16.0$ + Chicken Alfredo Pasta, 1 pieces, 22.5$
+Total Price: 87.0$
+Payment Method: By Cash
+Note: 
+---------------------------------------
+Order #21
+Owner: Ahmed Matroud
+Type: Delivery
+Details: 3 3
+Meals: Chocolate Lava Cake, 3 pieces, 9.99$ + Tiramisu, 1 pieces, 11.0$ + BBQ Ribs, 3 pieces, 24.5$
+Total Price: 114.47$
+Payment Method: By Cash
+Note: 
+---------------------------------------
